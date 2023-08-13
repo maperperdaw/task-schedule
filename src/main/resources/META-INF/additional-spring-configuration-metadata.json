@@ -1,0 +1,24 @@
+{
+	"properties": [
+		{
+			"name": "app.core.pool.size",
+			"type": "java.lang.String"
+		},
+		{
+			"name": "app.max.pool.size",
+			"type": "java.lang.String"
+		},
+		{
+			"name": "app.queue.capacity",
+			"type": "java.lang.String"
+		},
+		{
+			"name": "app.thread.name.prefix",
+			"type": "java.lang.String"
+		},		
+		{
+			"name": "app.thread.cron.conf",
+			"type": "java.lang.String"
+		}
+	]
+}
